@@ -36,6 +36,7 @@ Now we can see all the metrices of the EC2 instance.
 
 ![image](https://user-images.githubusercontent.com/74225291/210526678-cfb59b54-3e47-4e54-ba21-65475c0aa043.png)
 
-Currently we done have any thing running on the EC2 instance except ssm agent, now we can deploy some application on it and try to monitor it.
+Currently we dont have any thing running on the EC2 instance except ssm agent, now we can deploy some application on it and try to monitor it.
 
+Now deploy the Application using steps given in Springboot setup.
 
