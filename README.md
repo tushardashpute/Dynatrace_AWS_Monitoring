@@ -38,5 +38,15 @@ Now we can see all the metrices of the EC2 instance.
 
 Currently we dont have any thing running on the EC2 instance except ssm agent, now we can deploy some application on it and try to monitor it.
 
-Now deploy the Application using steps given in Springboot setup.
+Now deploy the Application using steps given in Springboot setup. After springboot deployment we can see springboot is added to processes.
+
+![image](https://user-images.githubusercontent.com/74225291/210556005-d32e12a3-24c3-4a60-b90e-99eab3e02d2f.png)
+
+![image](https://user-images.githubusercontent.com/74225291/210556737-4a5427ad-1a63-40f6-a346-78c3ccbd0a11.png)
+
+Now click on services, you will gget detailed info of the service.
+
+![image](https://user-images.githubusercontent.com/74225291/210556979-00e1d275-522d-4905-bad3-4f634a83dffa.png)
+
+
 
